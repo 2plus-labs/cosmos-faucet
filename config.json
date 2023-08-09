@@ -1,12 +1,12 @@
 {
-        "mnemonic":"one flight badge two kiwi adapt snap arrest make blast three wet...",
-        "chainId":"bitcanna-testnet-1", 
-        "lcdUrl":"https://cosmos-testnet.bitcanna.io",
-        "denom":"ubcna",
-        "prefix":"bcna",
-        "feeAmount":5000,
-        "AmountSend":1000000,
-        "memo":"Sent using Cosmostation-CosmoJS ;-)",
+        "mnemonic":"eight sound core absent balcony dance ..",
+        "chainId":"2plus",
+        "lcdUrl":"http://localhost:1317",
+        "denom":"uplus",
+        "prefix":"tplus",
+        "feeAmount":500,
+        "AmountSend":10000000000,
+        "memo":"Welcome to 2plus",
         "lport":8000,
         "gasLimit":200000
 
